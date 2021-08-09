@@ -1,8 +1,8 @@
-# explorer-java
-![Tests](https://github.com/teco-kit/explorer-android/actions/workflows/deploy.yml/badge.svg)
+# Java
+[![Test and Deploy](https://github.com/edge-ml/java/actions/workflows/deploy.yml/badge.svg)](https://github.com/edge-ml/java/actions/workflows/deploy.yml)
 ![Maven Central](https://img.shields.io/maven-central/v/edu.teco.explorer/ExplorerJava?color=%2348c653)
 
-Java library for https://github.com/teco-kit/explorer. 
+Java library for https://github.com/edge-ml. 
 Can be used to upload datasets as whole or incrementally. 
 Written in Java. Can be used in Android projects.
 
