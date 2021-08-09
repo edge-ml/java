@@ -1,5 +1,5 @@
 # Java
-[![Test and Deploy](https://github.com/edge-ml/java/actions/workflows/deploy.yml/badge.svg)](https://github.com/edge-ml/java/actions/workflows/deploy.yml)
+[![Test and Deploy](https://github.com/edge-ml/java/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/edge-ml/java/actions/workflows/deploy.yml)
 ![Maven Central](https://img.shields.io/maven-central/v/edu.teco.explorer/ExplorerJava?color=%2348c653)
 
 Java library for https://github.com/edge-ml. 
